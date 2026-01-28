@@ -1,8 +1,10 @@
-streamlit
-pandas
-scikit-learn
-joblib
 fastapi
 uvicorn
-pydantic
+pandas
+joblib
+scikit-learn==1.5.2
+pyjwt
+streamlit
+requests
 python-multipart
+pydantic
